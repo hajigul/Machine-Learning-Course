@@ -51,33 +51,18 @@ Resume worthy project: this is a complete machine learning project that you can 
 Technologies Used
 This course uses popular Python libraries including:
 
-Python 3.x
-Scikit-learn
-XGBoost
-LightGBM
-Yellowbrick
-Matplotlib and Seaborn
-Pandas and NumPy
-Folder Structure
-The project follows a clean and easy-to-understand structure:
+Python 3.x  
+Scikit-learn  
+XGBoost  
+LightGBM  
+Yellowbrick  
+Matplotlib and Seaborn  
+Pandas and NumPy  
+Folder Structure  
+The project follows a clean and easy-to-understand structure:  
 
 
-
-employee_churn/
-│
-├── data/
-│   └── employee_data.csv         # Input dataset  
-│
-├── results/                        # Output files and visualizations   
-│   ├── metrics_*.txt               # Accuracy, classification report  
-│   ├── feature_importance_*.png    # Feature importance plots  
-│   └── roc_auc_*.png               # ROC AUC curves  
-│
-├── data_import.py                  # Load and preprocess data  
-├── model.py                        # Contains all ML models  
-├── evaluate.py                     # Plotting and evaluation utilities  
-├── main.py                         # Main script to run the project  
-How to Use This Course  
+ 
 Step 1: Clone the repository  
 
 git clone https://github.com/yourusername/ml-churn-prediction-course.git 
