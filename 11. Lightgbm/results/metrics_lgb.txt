@@ -1,0 +1,11 @@
+Training Accuracy: 0.982
+Testing Accuracy: 0.982
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99      1917
+           1       0.96      0.93      0.95       400
+
+    accuracy                           0.98      2317
+   macro avg       0.97      0.96      0.97      2317
+weighted avg       0.98      0.98      0.98      2317

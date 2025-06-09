@@ -1,0 +1,7 @@
+Training Accuracy: 0.784
+Testing Accuracy: 0.787
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      0.79      0.86      1917
+           1       0.43      0.79      0.56       400
